@@ -10,7 +10,7 @@ const speakerData = [
   {
     name: 'Divine Angel',
     role: 'Decoration Creator and partner',
-    description: 'Partner of Tibia Home. Creator of decorations.', 
+    description: 'Partner of Tibia Home. Creator of decorations.',
     image: './images/divine-angel.jpg',
   },
 ];
