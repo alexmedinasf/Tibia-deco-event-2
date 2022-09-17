@@ -6,7 +6,7 @@
 - CSS
 - JavaScript 
 
-##Live Demo
+## Live Demo
 Check [this link](https://alexmedinasf.github.io/Tibia-house-deco-event/) for the live demo of the page
 
 ## Introduction video
